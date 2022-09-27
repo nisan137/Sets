@@ -17,11 +17,3 @@ Delete – an operation that receives a member and deletes it from the set
 Override the method ToString that inherits from Object in the following way:
 ToString – will return a string representation of the set.
 Equals – will check if another set has the same elements.
-
-Detailed Instructions
-
-Features in C# that may be used in this project:
-
-Classes
-Object-Based programming
-encapsulation
